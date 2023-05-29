@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@prisma/client": "^4.14.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2"
+  },
+  "name": "app-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prisma": "^4.14.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
